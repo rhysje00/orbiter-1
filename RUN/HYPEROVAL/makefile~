@@ -1,0 +1,4 @@
+
+clean: ;
+	cd 32; $(MAKE) clean
+
