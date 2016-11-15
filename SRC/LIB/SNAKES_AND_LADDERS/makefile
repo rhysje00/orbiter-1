@@ -1,5 +1,5 @@
 DISCRETA_CPP = /usr/bin/g++
-CPPFLAGS = -Wall -I.. -I../GALOIS
+CPPFLAGS = -Wall -g -I.. -I../GALOIS
 LIB = 
 LFLAGS = -lm
 CPP_PREFIX=c_

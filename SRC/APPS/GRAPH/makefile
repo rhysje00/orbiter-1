@@ -1,6 +1,6 @@
 SRC=../../../../ORBITER/SRC
 DISCRETA_CPP = /usr/bin/g++
-CPPFLAGS = -Wall -I$(SRC)/LIB -I$(SRC)/LIB/DISCRETA
+CPPFLAGS = -Wall -g -I$(SRC)/LIB -I$(SRC)/LIB/DISCRETA
 LIB = \
 	$(SRC)/LIB/TOP_LEVEL/libtoplevel.a \
 	$(SRC)/LIB/DISCRETA/libdiscreta.a \

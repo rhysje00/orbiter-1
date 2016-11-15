@@ -1,5 +1,5 @@
 DISCRETA_CPP = /usr/bin/g++
-CPPFLAGS = -Wall
+CPPFLAGS = -Wall -g
 LIB = 
 LFLAGS = -lm
 

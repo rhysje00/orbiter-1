@@ -32,7 +32,10 @@ public:
 	INT f_regular;
 	INT regularity;
 	INT *degree_sequence; // [n]
-	
+
+	INT f_edge_regular;
+	INT edge_regularity;
+
 	INT f_girth;
 	INT girth;
 	INT *neighbor; // [n]
@@ -77,6 +80,8 @@ public:
 	INT check_conditions_tournament(INT len, INT *S, INT verbose_level);
 	INT check_regularity(INT *S, INT len, INT verbose_level);
 	INT compute_degree_sequence(INT *S, INT len);
+	INT check_edge_regularity(INT *S, INT len, INT verbose_level);
+	INT check_edge_regularity_edge(INT *S, INT len, INT vertex1, INT vertex2, INT edge_regularity);
 	INT girth_check(INT *S, INT len, INT verbose_level);
 	INT girth_test_vertex(INT *S, INT len, INT vertex, INT girth, INT verbose_level);
 	void get_adjacency(INT *S, INT len, INT verbose_level);

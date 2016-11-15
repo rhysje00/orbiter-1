@@ -25,6 +25,7 @@ graph_generator::graph_generator()
 	
 	f_n = FALSE;
 	f_regular = FALSE;
+	f_edge_regular = FALSE;
 	f_girth = FALSE;
 	f_tournament = FALSE;
 	f_no_superking = FALSE;
@@ -92,6 +93,11 @@ void graph_generator::read_arguments(int argc, const char **argv)
 			sscanf(argv[++i], "%ld", &regularity);
 			cout << "-regular " << regularity << endl;
 			}
+		else if (strcmp(argv[i],"-edge_regular") == 0) {
+			f_edge_regular = TRUE;
+			sscanf(argv[++i],"%ld", &edge_regularity);
+			cout << "-edge_regular " << edge_regularity << endl;
+		    }
 		else if (strcmp(argv[i], "-n") == 0) {
 			f_n = TRUE;
 			sscanf(argv[++i], "%ld", &n);
@@ -225,6 +231,10 @@ void graph_generator::init(int argc, const char **argv)
 	if (f_regular) {
 		sprintf(prefix + strlen(prefix), "_r%ld", regularity);
 		}
+
+	if (f_edge_regular) {
+		sprintf(prefix + strlen(prefix), "_er%ld",edge_regularity);
+	    }
 	
 	if (f_girth) {
 		sprintf(prefix + strlen(prefix), "_g%ld", girth);
@@ -300,6 +310,9 @@ void graph_generator::init(int argc, const char **argv)
 		degree_sequence = NULL;
 		target_depth = n2;
 		}
+	if (f_edge_regular) {
+		/* Initialise arrays needed for edge_regular computation if needed */
+	    }
 	if (f_depth) {
 		target_depth = depth;
 		}
@@ -346,9 +359,10 @@ INT graph_generator::check_conditions(INT len, INT *S, INT verbose_level)
 
 	INT f_OK = TRUE;
 	INT f_not_regular = FALSE;
+	INT f_bad_edge_regular = FALSE;
 	INT f_bad_girth = FALSE;
 	INT f_v = (verbose_level >= 1);
-	
+
 	if (f_v) {
 		cout << "graph_generator::check_conditions checking set ";
 		print_set(cout, len, S);
@@ -362,6 +376,10 @@ INT graph_generator::check_conditions(INT len, INT *S, INT verbose_level)
 			f_bad_girth = TRUE;
 			f_OK = FALSE;
 			}
+		if (f_edge_regular && !check_edge_regularity(S, len, verbose_level - 1)) {
+			f_bad_edge_regular = TRUE;
+			f_OK = FALSE;
+		    }
 		}
 	if (f_OK) {
 		if (f_v) {
@@ -378,6 +396,9 @@ INT graph_generator::check_conditions(INT len, INT *S, INT verbose_level)
 			if (f_bad_girth) {
 				cout << "girth test";
 				}
+			if (f_bad_edge_regular) {
+				cout << "edge-regularity test";
+			    }
 			cout << endl;
 			}
 		return FALSE;
@@ -469,7 +490,7 @@ INT graph_generator::check_regularity(INT *S, INT len, INT verbose_level)
 {
 	INT f_OK;
 	INT f_v = (verbose_level >= 1);
-	
+
 	if (f_v) {
 		cout << "check_regularity for ";
 		INT_vec_print(cout, S, len);
@@ -509,6 +530,58 @@ INT graph_generator::compute_degree_sequence(INT *S, INT len)
 			return FALSE;
 			}
 		}
+	return TRUE;
+}
+
+INT graph_generator::check_edge_regularity(INT *S, INT len, INT verbose_level)
+{
+	INT f_OK = TRUE, i, j;
+	INT f_v = (verbose_level >= 1);
+
+	if (f_v) {
+		cout << "check_edge_regularity for ";
+		INT_vec_print(cout, S, len);
+		cout << endl;
+	}
+
+	get_adjacency(S,len,verbose_level - 1);
+	for (i = 0; i < n; i++) {
+		for (j = i+1; j < n; j ++) {
+			if (!check_edge_regularity_edge(S,len,i,j,edge_regularity)) {
+				f_OK = FALSE;
+				if (f_v) {
+					cout << "edge-regularity test violated" << endl;
+					return f_OK;
+				    }
+			    }
+		    }
+	    }
+
+	if (f_v) {
+		cout << "edge-regularity test OK" << endl;
+	    }
+
+	return f_OK;
+}
+
+INT graph_generator::check_edge_regularity_edge(INT *S, INT len, INT vertex1, INT vertex2, INT edge_regularity)
+{
+	INT tris = 0, i;
+
+	if (!adjacency[vertex1*n + vertex2]) {
+		return TRUE;
+	    }
+
+	for (i = 0; i < n; i++) {
+		tris += (adjacency[i*n+vertex1] && adjacency[i*n+vertex2]);
+		if ((tris > edge_regularity)) {
+			return FALSE;
+		    }
+	    }
+
+	if( len == gen->depth && tris < edge_regularity) {
+		return FALSE;
+	}
 	return TRUE;
 }
 

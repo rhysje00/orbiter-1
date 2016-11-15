@@ -142,6 +142,8 @@ void usage(int argc, const char **argv)
 	cout << "   number of vertices is <n>" << endl;
 	cout << "-regular <d>" << endl;
 	cout << "   regular of degree <d>" << endl;
+	cout << "-edge_regular <l>" << endl;
+	cout << "   edge-regular of degree <l>" << endl;
 	cout << "-girth <g>" << endl;
 	cout << "   girth <g>" << endl;
 	cout << "-list" << endl;
