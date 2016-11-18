@@ -43,8 +43,9 @@ all: test.out test2.out test3.out test4.out \
 		conjugacy_classes_sym_n.out \
 		unrank.out \
 		random.out \
-		nondecreasing.out
- 
+		nondecreasing.out \
+        complete_graph.out
+
 #test_group.out 
 
 test.out:  test.o;
@@ -170,7 +171,8 @@ random.out:  random.o;
 nondecreasing.out:  nondecreasing.o;
 	$(DISCRETA_CPP)  nondecreasing.o $(CPPFLAGS) $(LIB) $(LFLAGS) -o $@
 
-
+complete_graph.out:  complete_graph.o;
+	$(DISCRETA_CPP)  complete_graph.o $(CPPFLAGS) $(LIB) $(LFLAGS) -o $@
 
 clean:
 	- rm *.o *.a *.out *~
@@ -213,7 +215,7 @@ conjugacy_classes_sym_n.o: conjugacy_classes_sym_n.C ; $(DISCRETA_CPP) $(CPPFLAG
 unrank.o: unrank.C ; $(DISCRETA_CPP) $(CPPFLAGS) -c unrank.C -o $@
 random.o: random.C ; $(DISCRETA_CPP) $(CPPFLAGS) -c random.C -o $@
 nondecreasing.o: nondecreasing.C ; $(DISCRETA_CPP) $(CPPFLAGS) -c nondecreasing.C -o $@
-
+complete_graph.o: complete_graph.C ; $(DISCRETA_CPP) $(CPPFLAGS) -c complete_graph.C -o $@
 
 tex1:
 	~/bin/a2tex.out <puzzle.C >~/TEX.15/ORBITER/CODE/puzzle.tex

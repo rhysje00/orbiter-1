@@ -18,17 +18,13 @@
       <sourceFolder url="file://$MODULE_DIR$/RUN/CODES/makefile" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/RUN/BLT/13/makefile" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/RUN/BLT/makefile" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/RUN/HYPEROVAL/32/makefile" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/RUN/HYPEROVAL/16/makefile" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/RUN/HYPEROVAL/32/makefile" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/RUN/HYPEROVAL/makefile" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/RUN/AWSS/makefile" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/RUN/makefile" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/makefile" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/README.md" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/ARCS/arc_generator.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/ARCS/arcs.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/ARCS/arcs_main.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/ARCS/test_hyperoval.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/CODES/code_generator.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/CODES/codes.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/CODES/codes.C" isTestSource="false" />
@@ -39,16 +35,20 @@
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/BLT/blt_set.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/BLT/blt_main.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/BLT/blt_set2.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/TOOLS/draw_colored_graph.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/TOOLS/scheduler.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/TOOLS/dlx.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/TOOLS/treedraw.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/TOOLS/plot_decomposition_matrix.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/TOOLS/all_cliques.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/TOOLS/all_cycles.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/TOOLS/all_cliques.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/TOOLS/draw_colored_graph.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/TOOLS/layered_graph_main.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/TOOLS/scheduler.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/TOOLS/plot_decomposition_matrix.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/TOOLS/solve_diophant.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/TOOLS/all_rainbow_cliques.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/ARCS/arc_generator.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/ARCS/arcs.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/ARCS/arcs_main.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/ARCS/test_hyperoval.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/TRANSLATION_PLANE/translation_plane.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/TRANSLATION_PLANE/extending.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/TRANSLATION_PLANE/translation_plane_main.C" isTestSource="false" />
@@ -62,15 +62,14 @@
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/all_k_subsets.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/johnson.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/group_ring.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/fibonacci.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/cayley_sym_n.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/problem11.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/test3.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/srg.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/nondecreasing.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/subsets.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/unrank.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/grassmann.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/design.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/had.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/complete_graph.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/test4.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/paley.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/winnie_li.C" isTestSource="false" />
@@ -79,38 +78,41 @@
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/sequences.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/johnson_table.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/alphabet2.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/cayley_sym_n.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/hadamard.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/test3.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/srg.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/conjugacy_classes_sym_n.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/orthogonal.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/pentomino_5x5.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/test.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/shrikhande.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/test2.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/sarnak.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/hadamard.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/had.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/lehmer.c" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/nondecreasing.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/conic.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/cayley.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/burnside.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/change_1_dollar.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/matrix_rank.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/test.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/fibonacci.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/alphabet.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/random.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/sarnak.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/data.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/projective_space.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/andre_construction_line_element.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/finite_field_representations.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/mindist.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/projective_space.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/nauty.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/INT_vector.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/decomposition.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/null_polarity_generator.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/fancy_set.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/geometric_operations.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/sorting.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/unusual.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/graph_node.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/incidence_structure.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/INT_vector.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/klein_correspondence.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/rainbow_cliques.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/data_packings_PG_3_3.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/file_output.C" isTestSource="false" />
@@ -124,8 +126,7 @@
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/data_BLT_old.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/layered_graph_draw_options.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/longinteger_object.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/memory_object.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/nauty.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/tree.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/colored_graph.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/combinatorics.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/hjelmslev.C" isTestSource="false" />
@@ -133,7 +134,6 @@
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/tensor.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/norm_tables.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/layered_graph.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/klein_correspondence.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/spreadsheet.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/data_file.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/gl_classes.C" isTestSource="false" />
@@ -148,7 +148,7 @@
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/longinteger_domain.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/orthogonal_points.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/nauty.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/tree.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/graph_layer.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/orthogonal.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/naugraph.c" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/nautil.c" isTestSource="false" />
@@ -170,49 +170,50 @@
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/hermitian.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/grassmann_embedded.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/andre_construction.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/memory_object.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/rank_checker.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/data_hyperovals.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/graph_layer.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/unusual.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/data_DH.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/unipoly.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/tree_node.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/GALOIS/subfield_structure.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/INCIDENCE/refine_columns.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/INCIDENCE/dynamic_memory.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/INCIDENCE/refine_rows.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/INCIDENCE/mckay.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/INCIDENCE/tdo_scheme.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/INCIDENCE/geo_parameter.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/INCIDENCE/refine_3design.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/INCIDENCE/packing.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/INCIDENCE/incidence_global.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/INCIDENCE/inc_gen_global.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/INCIDENCE/tdo_data.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/INCIDENCE/geometric_tests.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/INCIDENCE/point_line.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/INCIDENCE/incidence.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/SNAKES_AND_LADDERS/upstep_work_subspace_action.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/SNAKES_AND_LADDERS/oracle.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/SNAKES_AND_LADDERS/recognize.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_combinatorics.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/SNAKES_AND_LADDERS/oracle_downstep_subspace_action.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/SNAKES_AND_LADDERS/upstep_work_trace.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/SNAKES_AND_LADDERS/snakesandladders.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_trace.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/SNAKES_AND_LADDERS/oracle_upstep_subspace_action.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/SNAKES_AND_LADDERS/oracle_upstep.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/SNAKES_AND_LADDERS/snakes_and_ladders_global.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_init.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_draw.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_combinatorics.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/SNAKES_AND_LADDERS/oracle.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/SNAKES_AND_LADDERS/oracle_upstep_subspace_action.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/SNAKES_AND_LADDERS/upstep_work_trace.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/SNAKES_AND_LADDERS/oracle_downstep_subspace_action.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_trace.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/SNAKES_AND_LADDERS/oracle_upstep.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_io.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/SNAKES_AND_LADDERS/recognize.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/SNAKES_AND_LADDERS/oracle_io.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/SNAKES_AND_LADDERS/set_stabilizer_compute.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/SNAKES_AND_LADDERS/oracle_downstep.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_draw.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/SNAKES_AND_LADDERS/upstep_work.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/SNAKES_AND_LADDERS/snakes_and_ladders_global.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/SNAKES_AND_LADDERS/snakesandladders.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_classify.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/SNAKES_AND_LADDERS/compute_stabilizer.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/SNAKES_AND_LADDERS/extension.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_io.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/INCIDENCE/refine_columns.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/INCIDENCE/tdo_data.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/INCIDENCE/dynamic_memory.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/INCIDENCE/refine_rows.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/INCIDENCE/tdo_scheme.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/INCIDENCE/geo_parameter.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/INCIDENCE/inc_gen_global.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/INCIDENCE/packing.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/INCIDENCE/incidence_global.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/INCIDENCE/incidence.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/INCIDENCE/mckay.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/INCIDENCE/geometric_tests.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/INCIDENCE/refine_3design.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/INCIDENCE/point_line.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/SNAKES_AND_LADDERS/oracle_downstep.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/orbiter.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/TOP_LEVEL/search_blocking_set.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/TOP_LEVEL/knarr.C" isTestSource="false" />
@@ -248,17 +249,17 @@
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/TOP_LEVEL/exact_cover.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/TOP_LEVEL/isomorph_database.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/action_on_spread_set.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/action_by_right_multiplication.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/matrix_group.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/strong_generators.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/action_on_andre.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/action_by_representation.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/desarguesian_spread.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/action_cb.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/vector_ge.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/matrix_group.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/action_on_grassmannian.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/action_on_bricks.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/page_storage.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/action_by_subfield_structure.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/union_find.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/action_by_representation.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/product_action.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/linear_group_description.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/backtrack.C" isTestSource="false" />
@@ -266,41 +267,39 @@
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/action_init.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/interface.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/sims_global.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/action_on_andre.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/action_on_wedge_product.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/action_on_determinant.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/linear_group.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/sims.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/action_on_determinant.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/strong_generators_groups.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/group.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/interface_matrix_group.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/perm_group.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/action_global.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/action_on_cosets.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/action_on_k_subsets.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/action_by_right_multiplication.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/action.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/action_by_restriction.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/schreier_sims.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/schreier.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/action_induce.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/schreier_sims.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/group.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/union_find_on_k_subsets.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/action.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/interface_perm_group.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/sims2.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/action_on_wedge_product.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/action_by_conjugation.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/linear_group.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/action_on_grassmannian.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/vector_ge.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/schreier.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/action_on_sets.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/sims2.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/action_on_factor_space.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/ACTION/schreier_vector.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/DISCRETA/global.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/DISCRETA/domain.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/DISCRETA/integer.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/DISCRETA/domain.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/DISCRETA/perm_group_gens.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/DISCRETA/hollerith.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/DISCRETA/base.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/DISCRETA/vector.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/DISCRETA/discreta_global.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/DISCRETA/group_selection.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/DISCRETA/solid.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/DISCRETA/bt_key.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/DISCRETA/btree.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/DISCRETA/design_parameter.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/DISCRETA/number_partition.C" isTestSource="false" />
@@ -308,14 +307,16 @@
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/DISCRETA/database.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/DISCRETA/bitmatrix.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/DISCRETA/matrix.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/DISCRETA/longinteger.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/DISCRETA/perm_group_gens.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/DISCRETA/bt_key.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/DISCRETA/permutation.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/DISCRETA/discreta.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/DISCRETA/memory.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/DISCRETA/base.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/DISCRETA/solid.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/DISCRETA/page_table.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/DISCRETA/discreta.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/DISCRETA/global.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/DISCRETA/memory.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/DISCRETA/permutation.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/DISCRETA/group_selection.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/DISCRETA/geometry.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/DISCRETA/longinteger.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/DISCRETA/unipoly.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/LIB/DISCRETA/design_parameter_source.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/makefile" isTestSource="false" />
@@ -415,6 +416,7 @@
       <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/puzzle_out.tex" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/paley_out.tex" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/projective_space_out.tex" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/projective_space.tex" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/determine_conic_out.tex" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/johnson.tex" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/projective_space2.tex" isTestSource="false" />
@@ -423,12 +425,11 @@
       <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/list_of_files.tex" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/determine_conic.tex" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/puzzle_out_edited.tex" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/makefile" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/sarnak.tex" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/finite_field_out.tex" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/~sol25.tex" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/grassmann.tex" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/projective_space.tex" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/sarnak.tex" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/makefile" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/grassmann_out.tex" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/sarnak_out.tex" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/list_of_directories.tex" isTestSource="false" />
