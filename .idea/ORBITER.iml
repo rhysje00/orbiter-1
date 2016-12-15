@@ -18,8 +18,8 @@
       <sourceFolder url="file://$MODULE_DIR$/RUN/CODES/makefile" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/RUN/BLT/13/makefile" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/RUN/BLT/makefile" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/RUN/HYPEROVAL/16/makefile" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/RUN/HYPEROVAL/32/makefile" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/RUN/HYPEROVAL/16/makefile" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/RUN/HYPEROVAL/makefile" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/RUN/AWSS/makefile" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/RUN/makefile" isTestSource="false" />
@@ -61,6 +61,7 @@
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/hamming.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/all_k_subsets.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/johnson.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/conic.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/group_ring.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/cayley_sym_n.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/problem11.C" isTestSource="false" />
@@ -69,7 +70,7 @@
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/unrank.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/grassmann.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/design.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/complete_graph.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/had.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/test4.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/paley.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/winnie_li.C" isTestSource="false" />
@@ -87,9 +88,8 @@
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/shrikhande.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/test2.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/hadamard.C" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/had.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/lehmer.c" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/conic.C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/complete_graph.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/cayley.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/burnside.C" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRC/APPS/COMBINATORICS/change_1_dollar.C" isTestSource="false" />
@@ -416,7 +416,6 @@
       <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/puzzle_out.tex" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/paley_out.tex" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/projective_space_out.tex" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/projective_space.tex" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/determine_conic_out.tex" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/johnson.tex" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/projective_space2.tex" isTestSource="false" />
@@ -425,11 +424,12 @@
       <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/list_of_files.tex" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/determine_conic.tex" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/puzzle_out_edited.tex" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/sarnak.tex" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/makefile" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/finite_field_out.tex" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/~sol25.tex" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/grassmann.tex" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/makefile" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/projective_space.tex" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/sarnak.tex" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/grassmann_out.tex" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/sarnak_out.tex" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DOC/CODE/list_of_directories.tex" isTestSource="false" />

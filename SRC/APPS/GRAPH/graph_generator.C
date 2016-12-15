@@ -11,6 +11,8 @@
 #include "orbiter.h"
 #include "graph.h"
 
+
+
 graph_generator::graph_generator()
 {
 	gen = NULL;
@@ -332,11 +334,13 @@ void graph_generator::init(int argc, const char **argv)
 		cout << "graph_generator::init target_depth = " << target_depth << endl;
 		}
 
-	gen->initialize(A_base, A_on_edges,  
-		A_base->Strong_gens, 
-		target_depth, 
+	gen->initialize(A_base, A_on_edges,
+		A_base->Strong_gens,
+		target_depth,
 		prefix, verbose_level - 1);
-	
+
+   // INT lvl = 1;
+//	gen->read_level_file_binary(lvl,gen->extend_fname,verbose_level-2);
 
 	gen->init_check_func(::check_conditions, 
 		(void *)this /* candidate_check_data */);

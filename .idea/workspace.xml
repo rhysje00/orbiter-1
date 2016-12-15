@@ -35,117 +35,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a023ca0-0ded-43ec-810c-f6c5e80dfbcd" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_1.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_10.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_11.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_12.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_13.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_14.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_15.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_16.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_17.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_18.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_2.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_3.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_4.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_5.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_6.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_7.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_8.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_9.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_lvl_1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_lvl_10" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_lvl_10_candidates.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_lvl_11" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_lvl_11_candidates.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_lvl_12" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_lvl_12_candidates.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_lvl_13" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_lvl_13_candidates.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_lvl_14" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_lvl_14_candidates.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_lvl_15" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_lvl_15_candidates.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_lvl_16" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_lvl_16_candidates.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_lvl_17" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_lvl_17_candidates.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_lvl_18" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_lvl_1_candidates.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_lvl_2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_lvl_2_candidates.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_lvl_3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_lvl_3_candidates.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_lvl_4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_lvl_4_candidates.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_lvl_5" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_lvl_5_candidates.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_lvl_6" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_lvl_6_candidates.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_lvl_7" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_lvl_7_candidates.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_lvl_8" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_lvl_8_candidates.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_lvl_9" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1_lvl_9_candidates.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1a_lvl_1.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1a_lvl_10.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1a_lvl_11.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1a_lvl_12.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1a_lvl_13.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1a_lvl_14.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1a_lvl_15.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1a_lvl_16.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1a_lvl_17.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1a_lvl_18.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1a_lvl_2.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1a_lvl_3.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1a_lvl_4.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1a_lvl_5.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1a_lvl_6.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1a_lvl_7.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1a_lvl_8.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1a_lvl_9.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1b_lvl_0.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1b_lvl_0_sv.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1b_lvl_1.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1b_lvl_10.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1b_lvl_10_sv.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1b_lvl_11.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1b_lvl_11_sv.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1b_lvl_12.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1b_lvl_12_sv.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1b_lvl_13.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1b_lvl_13_sv.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1b_lvl_14.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1b_lvl_14_sv.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1b_lvl_15.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1b_lvl_15_sv.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1b_lvl_16.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1b_lvl_16_sv.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1b_lvl_17.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1b_lvl_17_sv.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1b_lvl_1_sv.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1b_lvl_2.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1b_lvl_2_sv.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1b_lvl_3.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1b_lvl_3_sv.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1b_lvl_4.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1b_lvl_4_sv.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1b_lvl_5.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1b_lvl_5_sv.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1b_lvl_6.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1b_lvl_6_sv.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1b_lvl_7.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1b_lvl_7_sv.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1b_lvl_8.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1b_lvl_8_sv.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1b_lvl_9.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_9_r4_er1b_lvl_9_sv.data" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph.out" afterPath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph.out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_generator.o" afterPath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_generator.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SRC/LIB/TOP_LEVEL/libtoplevel.a" afterPath="$PROJECT_DIR$/SRC/LIB/TOP_LEVEL/libtoplevel.a" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ORBITER.iml" afterPath="$PROJECT_DIR$/.idea/ORBITER.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SRC/APPS/COMBINATORICS/makefile" afterPath="$PROJECT_DIR$/SRC/APPS/COMBINATORICS/makefile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_generator.C" afterPath="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_generator.C" />
     </list>
     <ignored path="ORBITER.iws" />
@@ -166,68 +60,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="generator_classify.C" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_classify.C">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="804">
-              <caret line="260" column="0" selection-start-line="260" selection-start-column="0" selection-end-line="260" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="generator_io.C" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_io.C">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6972">
-              <caret line="402" column="0" selection-start-line="402" selection-start-column="0" selection-end-line="402" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="orbiter.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SRC/LIB/orbiter.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="util.C" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SRC/LIB/GALOIS/util.C">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6">
-              <caret line="959" column="18" selection-start-line="959" selection-start-column="18" selection-end-line="959" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="snakesandladders.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/snakesandladders.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="537">
-              <caret line="602" column="28" selection-start-line="602" selection-start-column="28" selection-end-line="602" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="translation_plane.C" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SRC/LIB/TOP_LEVEL/translation_plane.C">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="translation_plane2.C" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SRC/LIB/TOP_LEVEL/translation_plane2.C">
+      <file leaf-file-name="codes.C" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SRC/APPS/CODES/codes.C">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -236,33 +70,91 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="top_level.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SRC/LIB/TOP_LEVEL/top_level.h">
+      <file leaf-file-name="code_generator.C" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SRC/APPS/CODES/code_generator.C">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="599" column="24" selection-start-line="599" selection-start-column="24" selection-end-line="599" selection-end-column="24" />
+            <state relative-caret-position="-5616">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="isomorph.C" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SRC/LIB/TOP_LEVEL/isomorph.C">
+      <file leaf-file-name="generator.C" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator.C">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2517">
-              <caret line="1223" column="40" selection-start-line="1223" selection-start-column="40" selection-end-line="1223" selection-end-column="40" />
-              <folding>
-                <element signature="e#32967#36565#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-1782">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="graph_generator.C" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SRC/APPS/GRAPH/graph_generator.C">
+      <file leaf-file-name="regular_ls.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SRC/APPS/REGULAR_LS/regular_ls.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="342" column="0" selection-start-line="342" selection-start-column="0" selection-end-line="342" selection-end-column="0" />
+            <state relative-caret-position="1150">
+              <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="regular_ls.C" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SRC/APPS/REGULAR_LS/regular_ls.C">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="36" column="3" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="regular_ls_generator.C" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SRC/APPS/REGULAR_LS/regular_ls_generator.C">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="top_level.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SRC/LIB/TOP_LEVEL/top_level.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-127">
+              <caret line="2067" column="18" selection-start-line="2067" selection-start-column="18" selection-end-line="2067" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="isomorph_arguments.C" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SRC/LIB/TOP_LEVEL/isomorph_arguments.C">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1890">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exact_cover_arguments.C" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SRC/LIB/TOP_LEVEL/exact_cover_arguments.C">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1244">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="compute_stabilizer.C" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/compute_stabilizer.C">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -280,6 +172,7 @@
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/SRC/APPS/COMBINATORICS/makefile" />
         <option value="$PROJECT_DIR$/SRC/APPS/COMBINATORICS/complete_graph.C" />
+        <option value="$PROJECT_DIR$/SRC/LIB/TOP_LEVEL/isomorph.C" />
         <option value="$PROJECT_DIR$/SRC/APPS/GRAPH/graph_generator.C" />
       </list>
     </option>
@@ -389,7 +282,105 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="TOP_LEVEL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ORBITER" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ORBITER" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SRC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LIB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="SNAKES_AND_LADDERS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ORBITER" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ORBITER" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SRC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="APPS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ORBITER" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ORBITER" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SRC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="APPS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="REGULAR_LS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ORBITER" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ORBITER" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SRC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="APPS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CODES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ORBITER" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ORBITER" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DOC" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -400,7 +391,7 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$USER_HOME$/ClionProjects/untitled" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="file_size&#9;null&#9;null&#10;initialize_wi&#9;null&#9;null&#10;starter_ca&#9;null&#9;null&#10;dlx&#9;null&#9;null&#10;init_start&#9;null&#9;null&#10;orbit_rep&#9;null&#9;null&#10;early_test&#9;null&#9;null&#10;extend_fn&#9;null&#9;null&#10;f_extend&#9;null&#9;null&#10;house&#9;null&#9;null&#10;generator&#9;null&#9;null&#10;graph&#9;null&#9;null&#10;fname_base&#9;null&#9;null&#10;starter&#9;null&#9;null&#10;initialize_with&#9;null&#9;null&#10;clique&#9;FILE&#9;file:///scratch/revans/ORBITER/SRC/LIB/GALOIS/clique_finder.C&#10;oracle&#9;null&#9;null&#10;initiali&#9;null&#9;null&#10;identify&#9;null&#9;null&#10;depth&#9;null&#9;null&#10;max_depth&#9;null&#9;null&#10;extend_level&#9;null&#9;null&#10;sz&#9;null&#9;null&#10;check_condition&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="isomorp&#9;null&#9;null&#10;exact&#9;null&#9;null&#10;MAGIC_SYNC&#9;null&#9;null&#10;generator::usa&#9;null&#9;null&#10;read_memor&#9;null&#9;null&#10;memory&#9;null&#9;null&#10;version&#9;ACTION&#9;Vcs.Import&#10;file_size&#9;null&#9;null&#10;recover&#9;null&#9;null&#10;read_data_fi&#9;null&#9;null&#10;f_recover&#9;null&#9;null&#10;isomorph&#9;null&#9;null&#10;for_start&#9;null&#9;null&#10;initialize_wi&#9;null&#9;null&#10;starter_ca&#9;null&#9;null&#10;dlx&#9;null&#9;null&#10;init_start&#9;null&#9;null&#10;orbit_rep&#9;null&#9;null&#10;early_test&#9;null&#9;null&#10;extend_fn&#9;null&#9;null&#10;f_extend&#9;null&#9;null&#10;house&#9;null&#9;null&#10;generator&#9;null&#9;null&#10;graph&#9;null&#9;null&#10;fname_base&#9;null&#9;null&#10;starter&#9;null&#9;null&#10;initialize_with&#9;null&#9;null&#10;clique&#9;FILE&#9;file:///scratch/revans/ORBITER/SRC/LIB/GALOIS/clique_finder.C&#10;oracle&#9;null&#9;null&#10;initiali&#9;null&#9;null&#10;identify&#9;null&#9;null&#10;depth&#9;null&#9;null&#10;max_depth&#9;null&#9;null&#10;extend_level&#9;null&#9;null&#10;sz&#9;null&#9;null&#10;check_condition&#9;null&#9;null" />
   </component>
   <component name="RunManager" selected="Application.ORBITER">
     <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
@@ -584,7 +575,7 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="ORBITER" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="-n 21 -regular 8 -edge_regular 3 -v 2 -w" WORKING_DIR="file://$PROJECT_DIR$/SRC/APPS/GRAPH" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ORBITER" TARGET_NAME="ORBITER" CONFIG_NAME="Debug" RUN_PATH="$PROJECT_DIR$/SRC/APPS/GRAPH/graph.out">
+    <configuration default="false" name="ORBITER" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="-n 8 -regular 3  -v 2 -w" WORKING_DIR="file://$PROJECT_DIR$/SRC/APPS/GRAPH" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ORBITER" TARGET_NAME="ORBITER" CONFIG_NAME="Debug" RUN_PATH="$PROJECT_DIR$/SRC/APPS/GRAPH/graph.out">
       <envs />
       <method>
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="false" />
@@ -610,36 +601,39 @@
       <workItem from="1479133964969" duration="4314000" />
       <workItem from="1479139607483" duration="11527000" />
       <workItem from="1479307497949" duration="15963000" />
+      <workItem from="1479733848536" duration="6726000" />
+      <workItem from="1479802871268" duration="6791000" />
+      <workItem from="1481017165536" duration="2161000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31804000" />
+    <option name="totallyTimeSpent" value="47482000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="28" width="1920" height="1018" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="28" width="1920" height="1018" extended-state="1" />
+    <editor active="false" />
     <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24139729" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973932" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39955357" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -695,7 +689,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/SRC/APPS/GRAPH/graph_generator.C</url>
-          <line>302</line>
+          <line>304</line>
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
@@ -705,28 +699,18 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/SRC/APPS/GRAPH/graph_generator.C</url>
-          <line>577</line>
+          <line>581</line>
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/SRC/APPS/GRAPH/graph_generator.C</url>
-          <line>575</line>
+          <line>579</line>
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_classify.C</url>
           <line>51</line>
           <option name="timeStamp" value="53" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_io.C</url>
-          <line>357</line>
-          <option name="timeStamp" value="59" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_io.C</url>
-          <line>347</line>
-          <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/SRC/LIB/GALOIS/util.C</url>
@@ -739,267 +723,123 @@
           <option name="timeStamp" value="63" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/SRC/APPS/GRAPH/graph_generator.C</url>
-          <line>333</line>
-          <option name="timeStamp" value="65" />
+          <url>file://$PROJECT_DIR$/SRC/LIB/TOP_LEVEL/isomorph.C</url>
+          <line>1447</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_io.C</url>
+          <line>972</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_io.C</url>
+          <line>887</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_io.C</url>
+          <line>785</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_io.C</url>
+          <line>797</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_io.C</url>
+          <line>799</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_io.C</url>
+          <line>809</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_io.C</url>
+          <line>804</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/SRC/LIB/GALOIS/memory_object.C</url>
+          <line>301</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_io.C</url>
+          <line>766</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/oracle_io.C</url>
+          <line>59</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/oracle_io.C</url>
+          <line>63</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/oracle_io.C</url>
+          <line>67</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_io.C</url>
+          <line>863</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_io.C</url>
+          <line>771</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_io.C</url>
+          <line>786</line>
+          <option name="timeStamp" value="113" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/SRC/APPS/GRAPH/graph_generator.C</url>
-          <line>334</line>
-          <option name="timeStamp" value="67" />
+          <line>342</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_io.C</url>
+          <line>343</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_io.C</url>
+          <line>359</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_io.C</url>
+          <line>440</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_io.C</url>
+          <line>442</line>
+          <option name="timeStamp" value="130" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="68" />
+      <option name="time" value="131" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/snakesandladders.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4014">
-          <caret line="223" column="28" selection-start-line="223" selection-start-column="28" selection-end-line="223" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_classify.C">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/APPS/GRAPH/graph_generator.C">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10314">
-          <caret line="573" column="0" selection-start-line="573" selection-start-column="0" selection-end-line="573" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/LIB/orbiter.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/APPS/BLT/blt_main.C">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/APPS/BLT/blt.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/APPS/BLT/blt_set2.C">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18144">
-          <caret line="1008" column="24" selection-start-line="1008" selection-start-column="24" selection-end-line="1008" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/LIB/GALOIS/galois.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75312">
-          <caret line="4184" column="0" selection-start-line="4184" selection-start-column="0" selection-end-line="4184" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/LIB/GALOIS/memory.C">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="193" column="8" selection-start-line="193" selection-start-column="8" selection-end-line="193" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/oracle.C">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="837">
-          <caret line="464" column="8" selection-start-line="464" selection-start-column="8" selection-end-line="464" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator.C">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30708">
-          <caret line="1706" column="18" selection-start-line="1706" selection-start-column="18" selection-end-line="1706" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/LIB/GALOIS/clique_finder.C">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/APPS/TOOLS/makefile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/APPS/TOOLS/all_cliques.C">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="90" column="3" selection-start-line="90" selection-start-column="3" selection-end-line="90" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RUN/GRAPH/PETERSEN/makefile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/APPS/COMBINATORICS/srg.C">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RUN/HYPEROVAL/32/makefile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/APPS/COMBINATORICS/complete_graph.C">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/APPS/COMBINATORICS/johnson.C">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/LIB/DISCRETA/discreta.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-31104">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DOC/blt.tex">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/APPS/ARCS/arcs.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/LIB/GALOIS/galois.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1251">
-          <caret line="4562" column="0" selection-start-line="4562" selection-start-column="0" selection-end-line="4562" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/APPS/GRAPH/graph.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/APPS/BLT/blt_main.C">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="117" column="48" selection-start-line="117" selection-start-column="48" selection-end-line="117" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/APPS/BLT/blt.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="146" column="21" selection-start-line="146" selection-start-column="5" selection-end-line="146" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/APPS/BLT/blt_set2.C">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16285">
-          <caret line="1060" column="34" selection-start-line="1060" selection-start-column="34" selection-end-line="1060" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/APPS/BLT/blt_set.C">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="573" column="18" selection-start-line="573" selection-start-column="18" selection-end-line="573" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SRC/LIB/TOP_LEVEL/orbit_rep.C">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
           <caret line="78" column="32" selection-start-line="78" selection-start-column="32" selection-end-line="78" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1007,7 +847,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1015,7 +854,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1023,47 +861,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1188">
           <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/APPS/REGULAR_LS/regular_ls.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-909">
-          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/APPS/REGULAR_LS/regular_ls.C">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="115" column="23" selection-start-line="115" selection-start-column="23" selection-end-line="115" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_init.C">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="501" column="16" selection-start-line="501" selection-start-column="16" selection-end-line="501" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/APPS/REGULAR_LS/regular_ls_generator.C">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="301" column="14" selection-start-line="301" selection-start-column="14" selection-end-line="301" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/snakesandladders.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="602" column="28" selection-start-line="602" selection-start-column="28" selection-end-line="602" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1083,19 +880,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/LIB/TOP_LEVEL/top_level.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="599" column="24" selection-start-line="599" selection-start-column="24" selection-end-line="599" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SRC/APPS/COMBINATORICS/makefile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1103,7 +891,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1111,56 +898,323 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_classify.C">
+    <entry file="file://$PROJECT_DIR$/SRC/LIB/DISCRETA/discreta.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="804">
-          <caret line="260" column="0" selection-start-line="260" selection-start-column="0" selection-end-line="260" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="37152">
+          <caret line="2064" column="11" selection-start-line="2064" selection-start-column="11" selection-end-line="2064" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/LIB/orbiter.h">
+    <entry file="file://$PROJECT_DIR$/SRC/LIB/GALOIS/util.C">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        <state relative-caret-position="50832">
+          <caret line="2824" column="8" selection-start-line="2824" selection-start-column="8" selection-end-line="2824" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SRC/LIB/TOP_LEVEL/isomorph.C">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2517">
-          <caret line="1223" column="40" selection-start-line="1223" selection-start-column="40" selection-end-line="1223" selection-end-column="40" />
+        <state relative-caret-position="25758">
+          <caret line="1431" column="27" selection-start-line="1431" selection-start-column="27" selection-end-line="1431" selection-end-column="27" />
           <folding>
             <element signature="e#32967#36565#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/LIB/GALOIS/util.C">
+    <entry file="file://$PROJECT_DIR$/SRC/LIB/GALOIS/memory_object.C">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6">
-          <caret line="959" column="18" selection-start-line="959" selection-start-column="18" selection-end-line="959" selection-end-column="18" />
+        <state relative-caret-position="5238">
+          <caret line="291" column="20" selection-start-line="291" selection-start-column="20" selection-end-line="291" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_io.C">
+    <entry file="file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/snakesandladders.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6972">
-          <caret line="402" column="0" selection-start-line="402" selection-start-column="0" selection-end-line="402" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="243">
+          <caret line="255" column="13" selection-start-line="255" selection-start-column="13" selection-end-line="255" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/LIB/GALOIS/galois.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="83" column="28" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/LIB/orbiter.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SRC/APPS/GRAPH/graph_generator.C">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="342" column="0" selection-start-line="342" selection-start-column="0" selection-end-line="342" selection-end-column="0" />
+        <state relative-caret-position="291">
+          <caret line="345" column="0" selection-start-line="345" selection-start-column="0" selection-end-line="345" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DOC/blt2.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-350">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DOC/CODE/all_k_subsets.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-882">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DOC/CODE/all_k_subsets_5_2_tree.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/APPS/ARCS/arcs_main.C">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/APPS/ARCS/arcs.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/APPS/BLT/blt.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/APPS/COMBINATORICS/srg.C">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-288">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/APPS/REGULAR_LS/makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-170">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/APPS/COMBINATORICS/all_k_subsets.C">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/LIB/INCIDENCE/refine_3design.C">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/extension.C">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_trace.C">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_io.C">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="343" column="0" selection-start-line="343" selection-start-column="0" selection-end-line="343" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_init.C">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="583" column="32" selection-start-line="583" selection-start-column="22" selection-end-line="583" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_classify.C">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4680">
+          <caret line="260" column="0" selection-start-line="260" selection-start-column="0" selection-end-line="260" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/oracle.C">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/oracle_downstep.C">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/oracle_downstep_subspace_action.C">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/oracle_io.C">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/oracle_upstep_subspace_action.C">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_draw.C">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator_combinatorics.C">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/APPS/GRAPH/graph.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/APPS/CODES/codes.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-324">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/APPS/CODES/codes.C">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/APPS/CODES/code_generator.C">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5616">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/generator.C">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1782">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/APPS/REGULAR_LS/regular_ls.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1150">
+          <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/LIB/SNAKES_AND_LADDERS/compute_stabilizer.C">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/LIB/TOP_LEVEL/exact_cover_arguments.C">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1244">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/LIB/TOP_LEVEL/isomorph_arguments.C">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1890">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/LIB/TOP_LEVEL/top_level.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-127">
+          <caret line="2067" column="18" selection-start-line="2067" selection-start-column="18" selection-end-line="2067" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/APPS/REGULAR_LS/regular_ls.C">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="36" column="3" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/APPS/REGULAR_LS/regular_ls_generator.C">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
           <folding />
         </state>
       </provider>
